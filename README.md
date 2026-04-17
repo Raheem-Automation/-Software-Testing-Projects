@@ -42,5 +42,5 @@ Test Reports
 Test Metrics
 Test Plan I have created a Test Plan for the Project
 
-Project name: What.
+Project name: 
 [New Microsoft Word Document.docx](https://github.com/user-attachments/files/18048320/New.Microsoft.Word.Document.docx)
